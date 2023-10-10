@@ -1,19 +1,21 @@
 create four.txt file
 
-farhan
-farhan
-farhan
-farhan
-farhan
-farhan
+puna
+puna
+puna
+puna
+puna
+puna
+puna
+puna
+puna
+punapuna
+puna
+puna
+puna
 
-farhanfarhan
-farhan
-farhan
-farhan
-farhan
-farhan
-farhan
-farhan
-farhan
-farhan
+puna
+puna
+puna
+puna
+puna
